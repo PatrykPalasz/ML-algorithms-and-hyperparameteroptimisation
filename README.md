@@ -1,4 +1,4 @@
-# This code is a result and extension of research work submitted to Applied Science
+# This code is a result and extension of research paper submitted to Applied Science Journal
 
 https://www.preprints.org/manuscript/201907.0319/v1
 
