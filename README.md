@@ -1,4 +1,6 @@
-# This code is a result and extension of research work published in ...
+# This code is a result and extension of research work submitted to Applied Science
+
+https://www.preprints.org/manuscript/201907.0319/v1
 
 The need to increase the energy efficiency of buildings as well as the use of local renewable heat sources has caused that heat meters are used not only to calculate the consumed energy but also for the active management of central heating systems. Increasing the reading frequency and the use of measurement data to control the heating system expands the requirements for the reliability of heat meters. The aim of the research is to analyse a large set of meters in the real network and predict their faults to avoid inaccurate readings, incorrect billing, heating system disruption and unnecessary maintenance. The reliability analysis of heat meters, based on historical data collected over several years, shows some regularities which cannot be easily described by physics-based models.  The failure rate is almost constant and does depend on the past but is a non-linear combination of state variables. To predict meters’ failures in the next billing period, three independent machine learning models are implemented and compared with selected metrics because even the high performance of a single model (87% True Positive for Neural Network) may be insufficient to make a maintenance decision. 
 
